@@ -7,3 +7,4 @@
 - [基于 Vue3 的前端 UI 组件开发 - 对话框](/zh-cn/06_vue3_ui_framework_dialog.md)
 - [基于 Vue3 的前端 UI 组件开发 - 开关](/zh-cn/07_vue3_ui_framework_switch.md)
 - [基于 Vue3 的前端 UI 组件开发 - 输入框](/zh-cn/08_vue3_ui_framework_input.md)
+- [基于 Vue3 的前端 UI 组件开发 - 表格](/zh-cn/09_vue3_ui_framework_table.md)
