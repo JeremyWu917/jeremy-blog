@@ -12,7 +12,7 @@
 
 - Gitee: https://gitee.com/jeremywuiot
 
-- 博客园: https://www.cnblogs.com/jeremywucnblog/
+- 博客园: https://www.cnblogs.com/jeremywucnblog
 
 ### 联系方式 :iphone:
 
