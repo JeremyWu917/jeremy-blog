@@ -2,7 +2,6 @@
 
 > 接下来做个自定义的表格组件，即 `table` 组件
 >
-> 返回阅读列表点击 [这里](https://www.cnblogs.com/jeremywucnblog/p/15674656.html)
 
 ### 需求分析
 
