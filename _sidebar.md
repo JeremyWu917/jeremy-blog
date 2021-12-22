@@ -10,3 +10,4 @@
 - [基于 Vue3 的前端 UI 组件开发 - 表格](/zh-cn/09_vue3_ui_framework_table.md)
 - [基于 Vue3 的前端 UI 组件开发 - 标签页](/zh-cn/10_vue3_ui_framework_tabs.md)
 - [基于 Vue3 的前端 UI 组件开发 - 卡片](/zh-cn/11_vue3_ui_framework_card.md)
+- [基于 Vue3 的前端 UI 组件开发 - 打包发布](/zh-cn/12_vue3_ui_framework_npm_publish.md)
