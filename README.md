@@ -14,6 +14,9 @@
 
 - 博客园: https://www.cnblogs.com/jeremywucnblog
 
+- 订阅号：
+  <img alt="全栈民工" src=https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/wechat_search_qrcode_standard.png width=20% />
+
 ### 联系方式 :iphone:
 
 - 邮箱: jeremy.wu@foxmail.com
