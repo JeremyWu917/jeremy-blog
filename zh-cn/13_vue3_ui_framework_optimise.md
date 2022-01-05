@@ -138,7 +138,7 @@ export default {
 
 ### 代码高亮显示支持 :rainbow_flag:
 
-我们可以用 `prismjs` 库来获得代码高亮，先安装
+我们可以用 `prismjs` 库来获得代码高亮效果，先安装
 
 ```bash
 npm install prismjs --save
