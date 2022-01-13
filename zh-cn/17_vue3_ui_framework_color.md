@@ -62,7 +62,7 @@
 
 ## 辅助色
 
-除了主色外的场景色，需要再不同的场景中使用（比如警告色表示警告的操作）。
+除了主色外的场景色，需要在不同的场景中使用（比如警告色表示警告的操作）。
 
 <div style="height: 150px; width: 660px; padding: 10px; display: flex; vertical-align: middle; display: table-cell; text-align: center; vertical-align: middle;">
   <div
