@@ -82,7 +82,7 @@ git clone git@github.com:JeremyWu917/jeremy-blog.git
 
 ### 快速部署
 
-在你的 `GitHub` 上创建一个仓库，随意命名，比如命名问 `x-blog`，然后修改 `jeremy-blog` 为 `x-blog` ，最后再在 `clone` 的基础上继续执行如下语句
+在你的 `GitHub` 上创建一个仓库，随意命名，比如命名为 `x-blog`，然后修改 `jeremy-blog` 为 `x-blog` ，最后再在 `clone` 的基础上继续执行如下语句
 
 ```powershell
 cd x-blog &&
