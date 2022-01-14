@@ -17,3 +17,4 @@
 - [基于 Vue3 的前端 UI 组件开发 - 域名配置](/zh-cn/16_vue3_ui_framework_domain.md)
 - [基于 Vue3 的前端 UI 组件开发 - 颜色面板](/zh-cn/17_vue3_ui_framework_color.md)
 - [个人博客快速搭建教程](/zh-cn/18_personal_common_blog.md)
+- [使用 VuePress 框架快速创建教程类网站](/zh-cn/19_personal_vuepress_website.md)
