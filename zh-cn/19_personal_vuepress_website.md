@@ -13,19 +13,19 @@
 - 支持国际化、多语言，只需配置一下就好
 - 响应式布局，手机端， `PC` 端网站友好的用户体验
 
-<div style="border-left: 5px solid #42b983; padding: 10px; background-color: #f3f5f7;">
+<section style="border-left: 5px solid #42b983; padding: 10px; background-color: #f3f5f7;">
     <strong>TIP</strong>
     <br><br>
-    远不止于用来搭建博客，可以开发公司企业官网等网站应用,也可结合 <code>boostrap</codecode> , <code>Element UI</codecode> 等技术进行二次开，构建更复杂的应用
-</div>
-
-<div style="border-left: 5px solid #e7c000; padding: 10px; background-color: #fff7d0;">
+    远不止于用来搭建博客，可以开发公司企业官网等网站应用,也可结合 <code>boostrap</code> , <code>Element UI</code> 等技术进行二次开，构建更复杂的应用
+</section>
+<br>
+<section style="border-left: 5px solid #e7c000; padding: 10px; background-color: #fff7d0;">
     <strong>WARNING</strong>
     <br><br>
     <li>目前 <code>VuePress</code> 版本并没有支持 <code>TypeScript</code>，并且没有提供类型定义,但如果想要用 <code>TypeScript</code>，可以安装 <code>vuepress-plugin-typescript</code> 插件，它提供了在 <code>VuePress</code> 中使用 <code>typescript</code> 的部分能力。如果你想获取到正确的类型定义，你可以配合 <code>vuepress-types</code> 一起使用</li>
 <li><code>vuepress-types</code> 作为 <code>VuePress</code> 的类型定义包，还处于实验阶段</li>
 <li>具体使用可参考文档 <code>vuepress-plugin-typescript</code> 使用文档，可以去尝试一下，这个不仅仅可以写 <code>TypeScript</code> ，在 <code>md</code> 也可以写 <code>TypeScript</code></li>
-</div>
+</section>
 
 ## 准备
 
@@ -36,11 +36,11 @@
 
 ![image-20211221093205956](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211221093205956.png)
 
-<div style="border-left: 5px solid #e7c000; padding: 10px; background-color: #fff7d0;">
+<section style="border-left: 5px solid #e7c000; padding: 10px; background-color: #fff7d0;">
     <strong>WARNING</strong>
     <br><br>
     请确保您的 <code>NodeJS</code> 版本 <code>>= 8</code>
-</div>
+</section>
 
 ### 项目搭建
 
@@ -56,13 +56,13 @@ npm install -g vuepress
 cnpm install -g vuepress
 ```
 
-<div style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6;">
+<section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6;">
     <strong>DANGER</strong>
     <br><br>
     <li>若是使用 <code>yarn</code> 安装，需要先全局安装 <code>yarn(npm install -g yarn)</code> </li>
     <li>若是使用 <code>npm</code> 全局安装，请确保你的 <code>Node.js</code> 版本 <code>>= 8</code></li>
     <li>如果你的现有项目依赖了 <code>webpack 3.x</code>，推荐使用 <code>yarn</code> 而不是 <code>npm</code> 来安装 <code>VuePress</code> 。因为在这种情形下，<code>npm</code> 会生成错误的依赖树</li>
-</div>
+</section>
 
 ### 初始化项目
 
@@ -95,11 +95,12 @@ cd jeremy-press
 },
 ```
 
-<div style="border-left: 5px solid #e7c000; padding: 10px; background-color: #fff7d0;">
+<section style="border-left: 5px solid #e7c000; padding: 10px; background-color: #fff7d0;">
     <strong>WARNING</strong>
     <br><br>
     配置完成后，可以使用 <code>yarn dev</code> 启动项目、<code>yarn build</code> 构建打包项目
-</div>
+</section>
+
 
 接下来创建 `docs` 目录， 这个 `docs` 文件夹主要用于放置我们写的 `.md` 类型的文章以及 `.vuepress` 相关的配置，这个文件夹的名字任意，与您启动项目和构建项目时的配置保持一致就可以了。
 
