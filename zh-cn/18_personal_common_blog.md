@@ -8,7 +8,7 @@
 
 #### 主页
 
-> 主页可以自定义背景色，框架拐角处挂在个人 `GitHub` 角标
+> 主页可以自定义背景色，框架拐角处挂载个人 `GitHub` 角标
 
 ![common_blog_home](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/common_blog_home.png)
 
