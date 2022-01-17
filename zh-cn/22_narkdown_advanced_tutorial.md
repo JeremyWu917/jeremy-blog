@@ -102,7 +102,7 @@
 #### 语法高亮
 
 <section style="border-left: 5px solid #42b983; padding: 10px; background-color: #f3f5f7; font-size: 10px;">
-    Typora 处理器支持受围栏代码块的语法突出显示，我们只需要在代码块的前三个反引号后面写上语言即可
+    Typora 处理器支持代码块的语法突出显示，我们只需要在代码块的前三个反引号后面写上语言即可
 </section>
 
 `Markdown` 代码如下：
