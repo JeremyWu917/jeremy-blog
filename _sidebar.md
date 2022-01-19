@@ -23,3 +23,4 @@
 - [Markdown 高级使用教程](/zh-cn/22_narkdown_advanced_tutorial.md)
 - [Markdown 文案排版指南](/zh-cn/23_markdown_extend.md)
 - [Oracle 数据库基础教程 - 计数器](/zh-cn/24_oracle_sequences.md)
+- [Oracle 数据库基础教程 - 触发器](/zh-cn/25_oracle_trigger.md)
