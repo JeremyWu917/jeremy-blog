@@ -24,3 +24,4 @@
 - [Markdown 文案排版指南](/zh-cn/23_markdown_extend.md)
 - [Oracle 数据库基础教程 - 计数器](/zh-cn/24_oracle_sequences.md)
 - [Oracle 数据库基础教程 - 触发器](/zh-cn/25_oracle_trigger.md)
+- [Oracle 数据库基础教程 - 表](/zh-cn/26_oracle_table.md)
