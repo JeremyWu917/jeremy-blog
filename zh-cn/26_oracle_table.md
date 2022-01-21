@@ -42,7 +42,7 @@ CREATE TABLE UserInfo
 	Id varchar2(10) not null,
     UserName varchar2(20) not null,
     Gender char(2) not null,
-    Brithday DATE not null,
+    Birthday DATE not null,
     Comment varchar2(256) default 'Added by admin'
 )
 tablespace OA
@@ -60,7 +60,7 @@ comment on column UserInfo.UserName
   is '姓名';
 comment on column UserInfo.Gender
   is '性别';
-comment on column UserInfo.Brithday
+comment on column UserInfo.Birthday
   is '出生日期';  
 comment on column UserInfo.Comment
   is '备注信息';  
@@ -147,4 +147,3 @@ end tri_userinfo_id;
     <br><br>
     我们这里不再讲解表的增删改查操作，后面我们会在单独的章节展开讲解
 </section>
-

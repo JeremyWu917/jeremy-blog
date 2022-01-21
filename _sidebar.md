@@ -25,3 +25,4 @@
 - [Oracle 数据库基础教程 - 计数器](/zh-cn/24_oracle_sequences.md)
 - [Oracle 数据库基础教程 - 触发器](/zh-cn/25_oracle_trigger.md)
 - [Oracle 数据库基础教程 - 表](/zh-cn/26_oracle_table.md)
+- [Oracle 数据库基础教程 - 表的增删改查](/zh-cn/27_oracle_crud.md)
