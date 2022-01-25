@@ -134,7 +134,7 @@ select a.view_name, a.text from user_views a where upper(a.text) like '% USERINF
     <br><br>
     1. 这里是查询出用户拥有的视图中包含 UserInfo 关键字的所有视图
     <br>
-    2. upper 方法表示把小写转换成大小
+    2. upper 方法表示把小写转换成大写
     <br>
     3. like 关键字与 % 配合进行模糊匹配查询
     <br>
