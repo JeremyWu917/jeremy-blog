@@ -28,3 +28,4 @@
 - [Oracle 数据库基础教程 - 表的增删改查](/zh-cn/27_oracle_crud.md)
 - [Oracle 数据库基础教程 - 视图](/zh-cn/28_oracle_view.md)
 - [Oracle 数据库基础教程 - 存储过程](/zh-cn/29_oracle_procedure.md)
+- [Oracle 数据库基础教程 - 函数](/zh-cn/30_oracle_function.md)
