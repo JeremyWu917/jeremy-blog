@@ -30,3 +30,4 @@
 - [Oracle 数据库基础教程 - 存储过程](/zh-cn/29_oracle_procedure.md)
 - [Oracle 数据库基础教程 - 函数](/zh-cn/30_oracle_function.md)
 - [Oracle 数据库基础教程 - 计划任务](/zh-cn/31_oracle_jobs.md)
+- [Oracle 数据库基础教程 - Trunc 详解](/zh-cn/32_oracle_trunc.md)
