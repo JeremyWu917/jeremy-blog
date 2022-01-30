@@ -32,3 +32,4 @@
 - [Oracle 数据库基础教程 - 计划任务](/zh-cn/31_oracle_jobs.md)
 - [Oracle 数据库基础教程 - Trunc 详解](/zh-cn/32_oracle_trunc.md)
 - [Oracle 数据库基础教程 - to_char 详解](/zh-cn/33_oracle_tochar.md)
+- [Oracle 性能优化](/zh-cn/34_oracle_optimize.md)
