@@ -34,3 +34,4 @@
 - [Oracle 数据库基础教程 - to_char 详解](/zh-cn/33_oracle_tochar.md)
 - [Oracle 性能优化](/zh-cn/34_oracle_optimize.md)
 - [Oracle 数据库基础教程 - 数据恢复](/zh-cn/35_oracle_flashback.md)
+- [Oracle 数据库基础教程 - 杀掉进程](/zh-cn/36_oracle_kill.md)
