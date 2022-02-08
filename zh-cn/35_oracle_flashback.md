@@ -74,7 +74,7 @@ flashback table object_name to before drop new_table_name;
 
 如果确定需要删除的数据又不想无谓的占用空间，我们可以使用以下 `3` 种方式：
 
-1. 采用 `truncate` 方式进行截断。（不能进行数据回恢复）
+1. 采用 `truncate` 方式进行截断。（不能进行数据恢复）
 2. 在 `drop` 时加上 `purge` 选项：`drop table table_name purge`
 3. 通过删除 `recyclebin` 区域来永久性删除表 , `drop table table_name cascade constraints purge table table_name`
 
