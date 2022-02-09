@@ -35,3 +35,4 @@
 - [Oracle 性能优化](/zh-cn/34_oracle_optimize.md)
 - [Oracle 数据库基础教程 - 数据恢复](/zh-cn/35_oracle_flashback.md)
 - [Oracle 数据库基础教程 - 杀掉进程](/zh-cn/36_oracle_kill.md)
+- [Oracle 数据库基础教程 - 常用知识](/zh-cn/37_oracle_data_trans.md)
