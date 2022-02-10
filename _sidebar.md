@@ -36,3 +36,4 @@
 - [Oracle 数据库基础教程 - 数据恢复](/zh-cn/35_oracle_flashback.md)
 - [Oracle 数据库基础教程 - 杀掉进程](/zh-cn/36_oracle_kill.md)
 - [Oracle 数据库基础教程 - 常用知识](/zh-cn/37_oracle_data_trans.md)
+- [WPF 基础系列教程 - 认识 WPF](/zh-cn/38_wpf_start.md)
