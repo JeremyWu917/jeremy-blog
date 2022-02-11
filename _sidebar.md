@@ -38,3 +38,4 @@
 - [Oracle 数据库基础教程 - 常用知识](/zh-cn/37_oracle_data_trans.md)
 - [WPF 基础系列教程 - 认识 WPF](/zh-cn/38_wpf_start.md)
 - [WPF 基础系列教程 - 创建第一个 WPF 程序](/zh-cn/39_wpf_first_demo.md)
+- [WPF 基础系列教程 - XAML 基础](/zh-cn/40_wpf_xaml_basic.md)
