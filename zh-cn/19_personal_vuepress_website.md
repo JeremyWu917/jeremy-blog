@@ -18,6 +18,8 @@
     <br><br>
     远不止于用来搭建博客，可以开发公司企业官网等网站应用,也可结合 <code>boostrap</code> , <code>Element UI</code> 等技术进行二次开，构建更复杂的应用
 </div>
+<br>
+
 
 <div style="border-left: 5px solid #e7c000; padding: 10px; background-color: #fff7d0;">
     <strong>WARNING</strong>

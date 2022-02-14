@@ -15,6 +15,8 @@
 	<br>
     2. 需要注意 Oracle 版本 10g 之前的版本需要引入 DBMS_JOBS 包，之后的版本需要引入 DBMS_SCHEDULER 包
 </section>
+<br>
+
 
 ```sql
 -- 10g
@@ -44,6 +46,8 @@ begin
 end;
 ```
 
+<br>
+
 <section style="border-left: 5px solid #42b983; padding: 10px; background-color: #f3f5f7; font-size: 10px;">
     <strong>解释说明</strong>
     <br><br>
@@ -57,6 +61,7 @@ end;
     <br>
     5. commit 一定不要忘记加，以免造成数据库死锁，特别是在自治事务场景下
 </section>
+
 
 ### 补充知识
 

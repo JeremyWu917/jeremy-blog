@@ -34,9 +34,12 @@
 | data10 | data20 | data30 |
 | data11 | data21 | data31 |
 
+<br>
+
 <section style="border-left: 5px solid #42b983; padding: 10px; background-color: #f3f5f7; font-size: 10px;">
     如果您觉得通过代码直接创建表格比较麻烦，那么我们也可以通过，Markdown 编辑器右键直接插入表格，也能设置对齐方式
 </section>
+
 
 ![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/insert_table_typora.gif)
 
@@ -62,6 +65,8 @@
 | data10 | data20 | data30 |
 | data11 | data21 | data31 |
 
+<br>
+
 <section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6; font-size: 10px;">
     <strong>特别注意</strong>
     <br><br>
@@ -69,6 +74,7 @@
     <br>
     我们不能添加标题，块引用，列表，水平规则，图像或 HTML 标签
 </section>
+
 
 
 ### 代码块

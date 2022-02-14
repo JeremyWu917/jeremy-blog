@@ -15,6 +15,8 @@ create or replace view v_UserInfo as
 select a.Id, a.UserName, a.Email from UserInfo a where a.Comment = '123' order by a.Id desc;
 ```
 
+<br>
+
 <section style="border-left: 5px solid #42b983; padding: 10px; background-color: #f3f5f7; font-size: 10px;">
     <strong>说明</strong>
     <br><br>
@@ -25,12 +27,15 @@ select a.Id, a.UserName, a.Email from UserInfo a where a.Comment = '123' order b
     3. 我们将 UserInfo 表中备注信息为 123 的数据集合查出来按照主键 Id 排序后组成了 v_UserInfo 视图
 </section>
 
+
 #### 复杂视图
 
 ```sql
 create or replace view v_UserInfo_Detail as 
 select a.Id, a.UserName, a.Email, b.DeptName from UserInfo a, Department b where a.DeptId = b.Id order by a.Id desc with read only;
 ```
+
+<br>
 
 <section style="border-left: 5px solid #42b983; padding: 10px; background-color: #f3f5f7; font-size: 10px;">
     <strong>说明</strong>
@@ -47,6 +52,7 @@ select a.Id, a.UserName, a.Email, b.DeptName from UserInfo a, Department b where
     <br>
     6. 实际上视图存在的意义，可以说一定程度上简化了用户的 SQL 查询语句的书写。比如在此例中，后续用户只需要查询 v_UserInfo_Detail 这张视图即可获取到想要的信息，不需要再写复杂的 SQL 查询语句
 </section>
+
 
 <br>
 
@@ -100,6 +106,8 @@ select a.Id, a.UserName, a.Email, b.DeptName from UserInfo a, Department b where
 drop view viewName;
 ```
 
+<br>
+
 <section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6; font-size: 10px;">
     <strong>特别注意</strong>
     <br><br>
@@ -111,6 +119,7 @@ drop view viewName;
     <br>
     4. 不建议删除视图
 </section>
+
 
 ### 常用的数据字典视图
 
@@ -129,6 +138,7 @@ drop view viewName;
 select a.view_name, a.text from user_views a where upper(a.text) like '% USERINFO %';
 ```
 
+<br>
 <section style="border-left: 5px solid #42b983; padding: 10px; background-color: #f3f5f7; font-size: 10px;">
     <strong>说明</strong>
     <br><br>

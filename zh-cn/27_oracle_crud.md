@@ -37,6 +37,8 @@ select * from UserInfo order by Id desc;
 select * from UserInfo t where t.Gender = '男' or t.Comment like 'Added%';
 ```
 
+<br>
+
 <section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6; font-size: 10px;">
     <strong>特别注意</strong>
     <br><br>
@@ -55,6 +57,7 @@ select * from UserInfo t where t.Gender = '男' or t.Comment like 'Added%';
     7. 尽量使用表别名，特别是多表联查的时候，后面我们会在 <strong>视图</strong> 章节中详细讲解
 </section>
 
+
 ### 插入数据
 
 #### 例子
@@ -72,6 +75,8 @@ insert into tableName (field1, field2, ..., fieldn)
 select value1, value2, ..., valuen from tableName2;
 ```
 
+<br>
+
 <section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6; font-size: 10px;">
     <strong>特别注意</strong>
     <br><br>
@@ -85,6 +90,7 @@ select value1, value2, ..., valuen from tableName2;
     <br>
     5. 最后一条表示把 tableName2 表中的全部数据插入到 tableName 表中，这里需要注意的是对应字段的数据类型要完全一致
 </section>
+
 
 ### 更新数据
 
@@ -101,6 +107,8 @@ update UserInfo t set t.Comment = '2022 虎年大吉！';
 update UserInfo t set t.Comment = '123' where t.Comment = 'Added by admin';
 ```
 
+<br>
+
 <section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6; font-size: 10px;">
     <strong>特别注意</strong>
     <br><br>
@@ -113,6 +121,7 @@ update UserInfo t set t.Comment = '123' where t.Comment = 'Added by admin';
     4. 强烈建议在执行更新操作之前，先使用 <strong>更新条件</strong> 执行查询操作，确认查询结果没问题时再执行更新操作
 </section>
 
+
 ### 删除数据
 
 #### 例子
@@ -121,6 +130,8 @@ update UserInfo t set t.Comment = '123' where t.Comment = 'Added by admin';
 delete UserInfo;
 delete from UserInfo t where t.Comment = '123';
 ```
+
+<br>
 
 <section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6; font-size: 10px;">
     <strong>特别注意</strong>
@@ -134,17 +145,21 @@ delete from UserInfo t where t.Comment = '123';
     4. 强烈建议在执行删除操作之前，先使用 <strong>删除条件</strong> 执行查询操作，确认查询结果没问题时再执行删除操作
 </section>
 
+
 ### 拓展知识
 
 <section style="border-left: 5px solid #42b983; padding: 10px; background-color: #f3f5f7; font-size: 10px;">
     我们可以通过如下语句对数据表进行删除
 </section>
+<br>
+
 
 ```sql
 truncate table UserInfo drop storage;
 truncate table UserInfo reuse storage;
 ```
 
+<br>
 <section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6; font-size: 10px;">
     <strong>特别注意</strong>
     <br><br>
@@ -152,4 +167,3 @@ truncate table UserInfo reuse storage;
     <br>
     2. 第二句表示删除 UserInfo 表不清空表所占用的空间
 </section>
-

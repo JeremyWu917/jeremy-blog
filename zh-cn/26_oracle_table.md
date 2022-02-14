@@ -24,15 +24,25 @@
 | `CLOB`             | 大字段类型，存储的是大文本，当字段长度大于 `4000` 时，可以使用这个数据类型 |
 | `BLOB`             | 二进制类型，存储的是二进制对象，比如图片、视频、声音等转换过来的二进制对象 |
 
+<br>
+
 <section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6; font-size: 10px;">
     <strong>特别注意</strong>
     <br><br>
     基于从业经验告诉大家，慎用 BLOB 类型！可用可不用的情况下尽量不要使用，一定不要滥用，否则后期维护真的是噩梦
 </section>
 
+
 ### 创建数据表
 
-我们可以通过 `create table` 命令来创建数据表，也可以通过 `PL/SQL` 数据库管理工具来创建数据表
+<br>
+<section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6; font-size: 10px;">
+    <strong>特别注意</strong>
+    <br><br>
+    1. 第一句表示删除 UserInfo 表并清空表所占用的空间（ <strong>drop storage</strong> 为关键字可以省略）
+    <br>
+    2. 第二句表示删除 UserInfo 表不清空表所占用的空间
+</section>
 
 #### 创建用户表
 
