@@ -261,7 +261,7 @@ $max-width: 1200px;
 
 ### 效果图
 
-![image-20211211092512943](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211211092512943.png)
+![image-20211211092512943](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211211092512943.png)
 
 
 

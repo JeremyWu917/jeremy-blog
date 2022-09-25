@@ -263,6 +263,6 @@ import {createDialog} from './createDialog.ts'
 
 接下来，我们将组件引入到页面中，看一下实际运行效果
 
-![dialog](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/dialog.gif)
+![dialog](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/dialog.gif)
 
 感谢阅读 :coffee:

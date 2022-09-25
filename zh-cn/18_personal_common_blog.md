@@ -10,31 +10,31 @@
 
 > 主页可以自定义背景色，框架拐角处挂载个人 `GitHub` 角标
 
-![common_blog_home](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/common_blog_home.png)
+![common_blog_home](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/common_blog_home.png)
 
 #### 全站检索
 
 > 支持全站检索功能。通过输入关键字，就能够搜索出历史相关的博客记录
 
-![common_blog_search](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/common_blog_search.png)
+![common_blog_search](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/common_blog_search.png)
 
 #### 章节跳转
 
 > 支持章节跳转功能
 
-![common_blog_next](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/common_blog_next.png)
+![common_blog_next](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/common_blog_next.png)
 
 #### 菜单收起
 
 > 支持菜单收取功能
 
-![common_blog_menu](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/common_blog_menu.png)
+![common_blog_menu](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/common_blog_menu.png)
 
 #### 响应式布局
 
 > 支持自适应、响应式布局。能够自动适配 `PC` 端和移动端
 
-![common_blog_flex](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/common_blog_flex.png)
+![common_blog_flex](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/common_blog_flex.png)
 
 ### 快速开始
 
@@ -48,7 +48,7 @@ git clone git@github.com:JeremyWu917/jeremy-blog.git
 
 然后，在 `jeremy-blog` 文件夹下右键用 `VSCode` 打开，可以看到整个项目的结构如下：
 
-![image-20220113160746830](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220113160746830.png)
+![image-20220113160746830](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220113160746830.png)
 
 #### 项目目录介绍
 
@@ -104,7 +104,7 @@ git push -f -u origin main
 
 配置信息如下界面
 
-![image-20220113163825749](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220113163825749.png)
+![image-20220113163825749](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220113163825749.png)
 
 这时候如果不出意外，就可以通过 `https://[Your GitHub's Name]/x-blog/` 进行访问了 :rocket:
 

@@ -1,6 +1,6 @@
 # WPF 基础系列教程 - 认识 WPF
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220210094330890.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220210094330890.png)
 
 <br>
 
@@ -67,7 +67,7 @@ https://www.visualstudio.com/vs/community/
 
 并完成安装之后，就可以开始我们的 `WPF` 学习之旅了。
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220210100314993.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220210100314993.png)
 
 <section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #f3f5f7; font-size: 10px;">
     <strong>特别注意</strong>

@@ -14,7 +14,7 @@
 
 先看一下 [Jeremy UI 官网](https://ui.jeremywu.top/) 效果吧！目前项目依然处于开发阶段，小伙伴们有兴趣可以跟着一起练习一下，也欢迎参与到项目中，项目参考地址 [GitHub](https://github.com/JeremyWu917/jeremy-ui) ，欢迎 `star`、`issue`、`fork` 和 `PR` 。
 
-![img](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211211102354207.png)
+![img](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211211102354207.png)
 
 ### 分析官网
 
@@ -118,7 +118,7 @@ cva .
 
 - 脚手架创建（根据提示信息创建即可，注意选择 `vue` -> `vue-ts`）
 
-![img](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/1335881-20211210150751081-33469351.png)
+![img](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/1335881-20211210150751081-33469351.png)
 
 启动项目
 

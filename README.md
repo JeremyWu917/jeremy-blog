@@ -15,7 +15,7 @@
 - 博客园: https://www.cnblogs.com/jeremywucnblog
 
 - 订阅号：
-  <img alt="全栈民工" src=https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/logo_05.png width=20% />
+  <img alt="全栈民工" src=https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/logo_05.png width=20% />
 
 ### 联系方式 :iphone:
 
@@ -23,5 +23,5 @@
 
 - 微信:
 
-   <img alt=JeremyWu-IoT src=https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/wechat_new.png width=20% />
+   <img alt=JeremyWu-IoT src=https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/wechat_new.png width=20% />
 

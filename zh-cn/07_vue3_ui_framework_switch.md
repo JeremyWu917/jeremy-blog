@@ -154,6 +154,6 @@ $d: 4px;
 
 创建一个测试页，导入 `JeremySwitch` 组件，看一下效果：
 
-![switch](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/switch.gif)
+![switch](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/switch.gif)
 
 感谢阅读 :coffee:

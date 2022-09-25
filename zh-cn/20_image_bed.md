@@ -43,7 +43,7 @@
 
 地址：https://imgchr.com/
 
-![image-20220115103328677](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220115103328677.png)
+![image-20220115103328677](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220115103328677.png)
 
 #####  SM.MS 图床
 
@@ -66,7 +66,7 @@
 
 地址：https://sm.ms/
 
-![image-20220115103546009](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220115103546009.png)
+![image-20220115103546009](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220115103546009.png)
 
 #####  ImgURL 图床
 
@@ -87,7 +87,7 @@
 
 地址：https://imgurl.org/
 
-![image-20220115103802098](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220115103802098.png)
+![image-20220115103802098](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220115103802098.png)
 
 ##### Gitee 和 GitHub
 
@@ -114,9 +114,9 @@ Gitee 地址：https://gitee.com/
 
 GitHub 地址：https://github.com/
 
-![image-20220115105543121](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220115105543121.png)
+![image-20220115105543121](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220115105543121.png)
 
-![image-20220115105637613](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220115105637613.png)
+![image-20220115105637613](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220115105637613.png)
 
 #### 收费图床
 
@@ -132,7 +132,7 @@ GitHub 地址：https://github.com/
 
 地址：https://common-buy.aliyun.com/
 
-![image-20220115104746942](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220115104746942.png)
+![image-20220115104746942](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220115104746942.png)
 
 ##### 七牛云 KODO
 
@@ -142,7 +142,7 @@ GitHub 地址：https://github.com/
 
 地址：https://www.qiniu.com/prices/kodo
 
-![image-20220115105008169](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220115105008169.png)
+![image-20220115105008169](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220115105008169.png)
 
 ##### 腾讯云 COS
 
@@ -152,7 +152,7 @@ GitHub 地址：https://github.com/
 
 地址：https://cloud.tencent.com/act/pro/cos
 
-![image-20220115110344981](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220115110344981.png)
+![image-20220115110344981](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220115110344981.png)
 
 <section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6;">
     氪金虽好，但是要量力而行，作为个人学习和写博客就没有必要氪金了，免费的图床足够使用。
@@ -184,7 +184,7 @@ GitHub 地址：https://github.com/
 
 点击复制按钮，这就是接下来我们需要用到的 `token`
 
-![image-20220115115101083](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220115115101083.png)
+![image-20220115115101083](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220115115101083.png)
 
 <section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6;">
     默认情况下此令牌拥有该 Gitee 账户的所有仓库和个人用户信息的操作权限，注意信息安全，不要外泄。
@@ -200,7 +200,7 @@ GitHub 地址：https://github.com/
 
 安装 `picgo uploader for gitee` 插件
 
-![image-20220115114221449](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220115114221449.png)
+![image-20220115114221449](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220115114221449.png)
 
 ##### 图床设置
 
@@ -210,7 +210,7 @@ GitHub 地址：https://github.com/
 - `token` - 填写上一步复制的 `Gitee` 上获取的 `token`
 - `message` - `push` 时的备注信息
 
-![image-20220115114320257](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220115114320257.png)
+![image-20220115114320257](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220115114320257.png)
 
 #### 安装 Typora 并配置
 
@@ -224,10 +224,10 @@ GitHub 地址：https://github.com/
 
 点击 `File\Preferences\Image` ，选择 `PicGo` 可执行文件的路径保存即可。
 
-![image-20220115120725944](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220115120725944.png)
+![image-20220115120725944](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220115120725944.png)
 
 #### 运行展示
 
-![picgo-202201151216](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/picgo-202201151216.gif)
+![picgo-202201151216](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/picgo-202201151216.gif)
 
 感谢阅读 :coffee:

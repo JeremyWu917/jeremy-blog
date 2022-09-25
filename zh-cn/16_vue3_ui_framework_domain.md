@@ -23,11 +23,11 @@
 7. 输入你的原始网站的域名或者公网 `IP` 地址
 8. 点击确认按钮完成配置
 
-![image-20211228104354433](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211228104354433.png)
+![image-20211228104354433](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211228104354433.png)
 
-![image-20211228104507481](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211228104507481.png)
+![image-20211228104507481](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211228104507481.png)
 
-![image-20211228104612795](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211228104612795.png)
+![image-20211228104612795](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211228104612795.png)
 
 ### 项目配置
 
@@ -37,7 +37,7 @@
 4. 点击 `Save` 按钮
 5. 等待几秒钟，就可以看到配置成功的提示了
 
-![image-20211228105821689](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211228105821689.png)
+![image-20211228105821689](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211228105821689.png)
 
 > **注意**
 >
@@ -54,9 +54,9 @@
 ui.jeremywu.top
 ```
 
-![image-20211228110750416](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211228110750416.png)
+![image-20211228110750416](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211228110750416.png)
 
-![image-20211228110829082](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211228110829082.png)
+![image-20211228110829082](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211228110829082.png)
 
 所以，我们也可以在项目部署之前创建一个 `CNAME` 文件，内容输入你要配置的名称，这样就不用界面进行配置了 :laughing:
 

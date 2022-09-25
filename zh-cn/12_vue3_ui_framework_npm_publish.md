@@ -138,7 +138,7 @@ export default {
 
 邮箱认证后，登录显示如下，这里的 `2FA` 暂时可以忽略，不过后面尽量完成认证。
 
-![image-20211222093456720](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211222093456720.png)
+![image-20211222093456720](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211222093456720.png)
 
 ### 配置打包
 
@@ -230,7 +230,7 @@ rollup -c
 
 执行后，我们会在根目录下的 `lib` 文件夹下看到如下三个文件：
 
-![image-20211222100048263](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211222100048263.png)
+![image-20211222100048263](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211222100048263.png)
 
 ### 发布到 NPM
 
@@ -273,7 +273,7 @@ npm publish
 
 发布成功后，我们可以登录 `npm` 查看一下：
 
-![image-20211222101356400](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211222101356400.png)
+![image-20211222101356400](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211222101356400.png)
 
 ### 使用 NPM 包
 

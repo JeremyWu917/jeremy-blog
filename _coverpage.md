@@ -8,4 +8,4 @@
 
 <!-- background image -->
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/bg1920x1280.jpg)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/bg1920x1280.jpg)

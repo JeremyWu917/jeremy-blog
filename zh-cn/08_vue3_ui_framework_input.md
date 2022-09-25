@@ -126,7 +126,7 @@ $theme-color: var(--color);
 
 创建一个测试页，导入 `JeremyInput` 组件，看一下效果：
 
-![input](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/input.gif)
+![input](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/input.gif)
 
 ### 项目地址 :gift:
 

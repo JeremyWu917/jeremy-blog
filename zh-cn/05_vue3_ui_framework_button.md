@@ -304,6 +304,6 @@ $radius: 4px;
 
 ### 测试一下
 
-![image-20211213131430347](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211213131430347.png)
+![image-20211213131430347](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211213131430347.png)
 
 感谢阅读 :coffee:

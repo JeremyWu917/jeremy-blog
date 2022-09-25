@@ -53,7 +53,7 @@ export default {
 
 在执行完 `npm run build` 之后，`dist` 目录生成如下文件：
 
-![image-20211227092019748](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211227092019748.png)
+![image-20211227092019748](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211227092019748.png)
 
 这些文件就可以部署了。
 
@@ -99,7 +99,7 @@ echo https://jeremywu917.github.io/jeremy-ui/index.html
 
 现在我们就可以通过 https://jeremywu917.github.io/jeremy-ui/ 进行官网的访问了 :rocket:
 
-![image-20211227102944282](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211227102944282.png)
+![image-20211227102944282](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211227102944282.png)
 
 ### 项目地址 :gift:
 

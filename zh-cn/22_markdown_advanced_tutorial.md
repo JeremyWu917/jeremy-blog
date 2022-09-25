@@ -41,7 +41,7 @@
 </section>
 
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/insert_table_typora.gif)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/insert_table_typora.gif)
 
 #### 对齐方式
 
@@ -235,7 +235,7 @@
 
 我这边总结了一下几乎所有的 `emoji` 表情，放置在了 `GitHub` 仓库，大家可以按需下载看一下。
 
-![github_emoji_list](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/github_emoji_list.gif)
+![github_emoji_list](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/github_emoji_list.gif)
 
 
 
@@ -259,7 +259,7 @@ $$
 
 运行效果：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220117170612648.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220117170612648.png)
 
 #### 横向流程图
 
@@ -276,7 +276,7 @@ A[方形] -->B(圆角)
 
 运行效果：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220117170650702.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220117170650702.png)
 
 #### 竖向流程图
 
@@ -293,7 +293,7 @@ A[方形] --> B(圆角)
 
 运行效果：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220117170710727.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220117170710727.png)
 
 #### 标准流程图
 
@@ -313,7 +313,7 @@ cond(no)->sub1(right)->op
 
 运行效果：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220117170732520.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220117170732520.png)
 
 #### 横向标准流程图
 
@@ -333,7 +333,7 @@ cond(no)->sub1(right)->op
 
 运行效果：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220117170751094.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220117170751094.png)
 
 #### `UML` 时序图 `1`
 
@@ -349,7 +349,7 @@ Note left of 对象A: 对象A的描述(提示)
 
 运行效果：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220117170813473.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220117170813473.png)
 
 #### `UML` 时序图 `2`
 
@@ -371,7 +371,7 @@ Note right of C: 没人陪我玩
 
 运行效果：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220117170833009.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220117170833009.png)
 
 #### `UML` 标准时序图
 
@@ -394,7 +394,7 @@ Note right of C: 没人陪我玩
 
 运行效果：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220117170857937.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220117170857937.png)
 
 #### 甘特图
 
@@ -424,7 +424,7 @@ Note right of C: 没人陪我玩
 
 运行效果：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220117170921456.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220117170921456.png)
 
 <section style="border-left: 5px solid #cc0000; padding: 10px; background-color: #ffe6e6; font-size: 10px;">
     <strong>特别注意</strong>
@@ -444,10 +444,10 @@ Note right of C: 没人陪我玩
 
 ```text
 <section style="margin: auto; width:300px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); text-align: center; border-radius: 10px; box-shadow: 04px8px0rgba(0, 0, 0, 0.2), 06px20px0rgba(0, 0, 0, 0.19); box-shadow: 0 0 20px #a812ff;">
-   <img style="width:20%; height:20%;" src="https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/tack_purple_128x128.png"/>
-   <img src="https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/logo_05.png" style="width:100%; border: 1px solid #eee"/>
+   <img style="width:20%; height:20%;" src="https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/tack_purple_128x128.png"/>
+   <img src="https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/logo_05.png" style="width:100%; border: 1px solid #eee"/>
       <br>
-      <img style="width:15%; height:15%; position: relative; top: 5px;left: 0px;" src="https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/tada.gif" />
+      <img style="width:15%; height:15%; position: relative; top: 5px;left: 0px;" src="https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/tada.gif" />
       <section style="padding: 1px;">
          <p style="font-size:12px; color: #a812ff">长按关注公众号 ⌈全栈民工⌋ 🎉</p>
          <p style="font-size:12px; color: #a812ff">原创技术文章第一时间推送 🙌</p>
@@ -457,7 +457,7 @@ Note right of C: 没人陪我玩
 
 运行效果：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220117171700054.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220117171700054.png)
 
 ### 最后
 

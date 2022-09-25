@@ -74,7 +74,7 @@
 
 运行效果如下：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220211151538662.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220211151538662.png)
 
 ### XAML 事件
 
@@ -88,7 +88,7 @@
 
 我们为主窗体的 `Grid` 命名为 `MainGrid` ，并且为了好区分我们为它设置一个颜色，最后再订阅了 `MouseUp` 事件，自动生成的方法名为 `MainGrid_MouseUp`，如下：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/wpf_basic_xaml1.gif)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/wpf_basic_xaml1.gif)
 
 写一个简单事件弹出区域坐标信息，代码如下：
 
@@ -101,7 +101,7 @@ private void MainGrid_MouseUp(object sender, MouseButtonEventArgs e)
 
 运行效果：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/wpf_basic_xaml2.gif)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/wpf_basic_xaml2.gif)
 
 <br>
 
@@ -138,7 +138,7 @@ public partial class MainWindow : Window
 
 运行效果：
 
-![wpf_basic_xaml3](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/wpf_basic_xaml3.gif)
+![wpf_basic_xaml3](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/wpf_basic_xaml3.gif)
 
 <br>
 
@@ -152,7 +152,7 @@ public partial class MainWindow : Window
 
 就像这样：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/wpf_basic_xaml4.gif)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/wpf_basic_xaml4.gif)
 
 
 感谢阅读 :coffee:

@@ -303,7 +303,7 @@ import "prismjs/themes/prism-solarizedlight.css"
 >
 > 除此之外，查看 `prism` 主题包可以看到其他的样式哦
 >
-> ![image-20211223095336895](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211223095336895.png)
+> ![image-20211223095336895](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211223095336895.png)
 
 ### 展开/关闭代码 :bulb:
 
@@ -341,7 +341,7 @@ import 'jeremy-ui/lib/jeremy.css'
 
 ### 效果展示 :tada:
 
-![opt](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/opt.gif)
+![opt](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/opt.gif)
 
 ### 项目地址 :gift:
 

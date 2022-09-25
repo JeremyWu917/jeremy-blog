@@ -341,6 +341,6 @@ $color: white;
 
 ### 运行效果
 
-![image-20211211102354207](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211211102354207.png)
+![image-20211211102354207](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211211102354207.png)
 
 感谢阅读 :coffee:

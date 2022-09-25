@@ -77,7 +77,7 @@ export default {
 
 我们将 `JeremyCard` 引入到测试文档中预览一下效果：
 
-![card](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/card.gif)
+![card](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/card.gif)
 
 ### 项目地址 :gift:
 

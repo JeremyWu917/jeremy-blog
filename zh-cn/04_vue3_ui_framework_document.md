@@ -398,6 +398,6 @@ export default {
 
 ### 运行效果
 
-![image-20211211102959995](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211211102959995.png)
+![image-20211211102959995](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20211211102959995.png)
 
 感谢阅读 :coffee:

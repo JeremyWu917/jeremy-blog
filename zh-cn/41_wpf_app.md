@@ -211,7 +211,7 @@ namespace _02_Wpf_App
 
 运行效果：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220222093043593.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220222093043593.png)
 
 ### 命令行参数
 
@@ -221,7 +221,7 @@ namespace _02_Wpf_App
 notepad.exe c:\Windows\win.ini
 ```
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220222093502403.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220222093502403.png)
 
 这个会打开 `Notepad` 去打开 `win.ini` 文件（你可能需要调整一下路径，以对应到你的系统）。`Notepad` 简单的地查找一个或几个参数，然后使用这些参数，你的应用程序也可以这么做。
 
@@ -291,11 +291,11 @@ namespace _02_Wpf_App
 
 从**项目**菜单选择**"[程序名称] 属性"**然后进入到 **Debug** 页签（你可以在这里定义命令行参数）。这个应该能够看到像这样的内容：
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220222104148389.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220222104148389.png)
 
 #### 运行效果
 
-![](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220222104408022.png)
+![](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220222104408022.png)
 
 #### 命令行的潜在价值
 

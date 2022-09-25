@@ -29,9 +29,9 @@
     这里我结合自身的使用经验，推荐大家使用 Typora 编辑工具，或者使用 VS Code 安装 Markdown All in One 插件后使用。
 </section>
 
-![image-20220117092353525](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220117092353525.png)
+![image-20220117092353525](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220117092353525.png)
 
-![image-20220117092420634](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220117092420634.png)
+![image-20220117092420634](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220117092420634.png)
 
 <section style="border-left: 5px solid #e7c000; padding: 10px; background-color: #fff7d0; font-size: 10px;">
     还是那句话，作为学习氪金就没有必要了，Typora 使用 beta 版本学习足够了

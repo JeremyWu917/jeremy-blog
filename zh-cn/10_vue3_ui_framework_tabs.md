@@ -269,7 +269,7 @@ $theme-color: var(--color);
 
 将 `JeremyTabs` 组件引入到测试文档，查看一下运行效果
 
-![tabs](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/tabs.gif)
+![tabs](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/tabs.gif)
 
 ### 项目地址 :gift:
 

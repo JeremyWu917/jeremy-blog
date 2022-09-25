@@ -10,35 +10,35 @@
 
 1. 打开 `IDE` ，点击 `Continue without code` 
 
-![image-20220211091423847](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220211091423847.png)
+![image-20220211091423847](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220211091423847.png)
 
 2. 单击菜单栏 `File` -> `New` -> `Project` 打开创建工程面板
 
-![image-20220211090831855](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220211090831855.png)
+![image-20220211090831855](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220211090831855.png)
 
 3. 在创建新工程面板中，选择 "Blank Solution"，您可以借助搜索框快速找到 "Blank Solution"，然后单击 `Next` 按钮
 
-![image-20220211090948200](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220211090948200.png)
+![image-20220211090948200](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220211090948200.png)
 
 4. 在配置新项目界面输入解决方案名称和保存路径后，然后单击 `Create` 按钮
 
-![image-20220211091126673](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220211091126673.png)
+![image-20220211091126673](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220211091126673.png)
 
 5. 单击菜单栏 `File` -> `New` -> `Project` 打开创建工程面板
 
-![image-20220211090831855](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220211090831855.png)
+![image-20220211090831855](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220211090831855.png)
 
 6. 在创建新工程面板中，选择 "WPF Application"，您可以借助搜索框快速找到 "WPF Application"，然后单击 `Next` 按钮
 
-![image-20220211094022909](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220211094022909.png)
+![image-20220211094022909](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220211094022909.png)
 
 7. 在配置新项目的界面输入工程名称，保存路径选择你刚才创建的空白解决方案的路径，<strong>注意：Solution 这里选择 Add to solution</strong>，然后点击 `Next` 按钮
 
-![image-20220211093813007](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220211093813007.png)
+![image-20220211093813007](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220211093813007.png)
 
 8. 当您看到如下界面的时候，说明项目已经创建成功了
 
-![image-20220211093933338](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20220211093933338.png)
+![image-20220211093933338](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/image-20220211093933338.png)
 
 ### XMAL 代码
 
@@ -78,13 +78,13 @@
 </Window>
 ```
 
-![wpf_first_demo](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/wpf_first_demo.gif)
+![wpf_first_demo](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/wpf_first_demo.gif)
 
-![wpf_first_demo2](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/wpf_first_demo2.gif)
+![wpf_first_demo2](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/wpf_first_demo2.gif)
 
 ### 运行效果
 
-![wpf_first_demo3](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/wpf_first_demo3.gif)
+![wpf_first_demo3](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/wpf_first_demo3.gif)
 
 <section style="border-left: 5px solid #e7c000; padding: 10px; background-color: #f3f5f7; font-size: 10px;">
     <strong>项目地址</strong>

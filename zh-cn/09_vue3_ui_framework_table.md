@@ -103,7 +103,7 @@ export default {
 
 创建一个测试页，导入 `JeremyTable` 组件，看一下效果：
 
-![table](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/table.gif)
+![table](https://raw.githubusercontent.com/jeremywu917/jeremywuassets/main/src/blog/table.gif)
 
 ### 项目地址 :gift:
 
